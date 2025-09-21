@@ -12,15 +12,16 @@ export const AboutSection = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
-            <h3 className="text-2xl font-semibold">Passionate Web Developer</h3>
+            <h3 className="text-2xl font-semibold">Passionate about Tech</h3>
             <p className="text-muted-foreground">
-              I specialize in web development, creating responsive, accessible,
-              and performant web applications using modern technologies.
+              I enjoy building web apps that provide a friendly and seamless
+              user experience. I have experience with AWS and Networking. I
+              enjoy being able to help deploy apps to production.
             </p>
             <p className="text-muted-foreground">
               I'm passionate about creating solutions to complex problems, and
               I'm constantly learning new technologies and techniques to stay at
-              the forefront of the ever-evolving web landscape.
+              the forefront of the ever-evolving tech landscape.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -56,10 +57,9 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX Design</h4>
+                  <h4 className="font-semibold text-lg">DevOps</h4>
                   <p className="text-muted-foreground">
-                    Design intuitive user interfaces and seamless user
-                    experience.
+                    Deploy applications seamlessly
                   </p>
                 </div>
               </div>
