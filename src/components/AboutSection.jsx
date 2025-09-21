@@ -29,7 +29,7 @@ export const AboutSection = () => {
                 Get in Touch
               </a>
               <a
-                href="/assets/Resume_Alexis_Bustos_09_21.pdf"
+                href="/assets/Resume_Alexis_Bustos_09_21_25.pdf"
                 download="Resume_Alexis_Bustos.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
                 Download CV/Résumé
