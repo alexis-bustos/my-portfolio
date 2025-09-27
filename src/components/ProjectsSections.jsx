@@ -5,6 +5,16 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
+    title: "NotesApp",
+    description:
+      "A stylishly simple website for users to jot down ideas/thoughts",
+    image: "/projects/mern-notes-app-page.png",
+    tags: ["HTML", "React", "JavaScript", "TailwindCSS"],
+    demoUrl: "https://mern-notes-app-4s0x.onrender.com/",
+    githubUrl: "https://github.com/alexis-bustos/mern-notes-app",
+  },
+  {
+    id: 2,
     title: "Taco Restaurant Website",
     description:
       "A beautiful website for a taco restaurant using HTML, CSS, & JavaScript",
@@ -12,15 +22,6 @@ const projects = [
     tags: ["HTML", "CSS", "JavaScript"],
     demoUrl: "https://tacorestaurant.netlify.app/",
     githubUrl: "https://github.com/alexis-bustos/taco-shop",
-  },
-  {
-    id: 2,
-    title: "NotesApp",
-    description: "A stylishly simple website for jotting down ideas/thoughts",
-    image: "/projects/mern-notes-app-page.png",
-    tags: ["HTML", "React", "JavaScript", "TailwindCSS"],
-    demoUrl: "https://mern-notes-app-4s0x.onrender.com/",
-    githubUrl: "https://github.com/alexis-bustos/mern-notes-app",
   },
 ];
 
