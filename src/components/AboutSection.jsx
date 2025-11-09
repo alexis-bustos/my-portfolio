@@ -13,18 +13,17 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate about Web Development
+              Passionate about IT and Data Analytics/Engineering
             </h3>
             <p className="text-muted-foreground">
-              I enjoy building beautiful modern web applications that combine
-              clean design with seamless user experiences. I especially enjoy
-              creating full-stack projects that challenge me to think creatively
-              and technically.
+              I enjoy digging through data to uncover valuable insight. SQL,
+              Excel, and a BI tool are my trusty partners.
             </p>
             <p className="text-muted-foreground">
               I'm passionate about creating solutions to complex problems, and
               I'm constantly learning new technologies and techniques to stay at
-              the forefront of the ever-evolving web development landscape.
+              the forefront of the ever-evolving data analytics/engineering
+              world.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -46,10 +45,9 @@ export const AboutSection = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg"> Web Development</h4>
+                  <h4 className="font-semibold text-lg"> Data Analytics</h4>
                   <p className="text-muted-foreground">
-                    Creating responsive website and web applications with modern
-                    frameworks.
+                    Query data to uncover valuable insights using SQL.
                   </p>
                 </div>
               </div>
@@ -60,10 +58,10 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX</h4>
+                  <h4 className="font-semibold text-lg">Dashboard</h4>
                   <p className="text-muted-foreground">
-                    Designing intuitive user interfaces and seamless user
-                    experiences.
+                    Designing intuitive user dashboards to help visualize data
+                    insights.
                   </p>
                 </div>
               </div>
