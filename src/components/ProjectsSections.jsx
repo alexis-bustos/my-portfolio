@@ -8,7 +8,7 @@ const projects = [
     title: "Data Science Job Analysis",
     description:
       "An insightful view into the top-paying roles in data analytics and the most in-demand skills",
-    image: "/projects/2_top_paying_job_skills",
+    image: "/projects/2_top_paying_job_skills.png",
     tags: ["SQL", "PostgreSQL", "Data Science", "GitHub"],
     demoUrl: "https://github.com/alexis-bustos/sql_project_data_job_analysis",
     githubUrl: "https://github.com/alexis-bustos/sql_project_data_job_analysis",
