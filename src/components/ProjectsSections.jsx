@@ -13,6 +13,16 @@ const projects = [
     demoUrl: "https://github.com/alexis-bustos/sql_project_data_job_analysis",
     githubUrl: "https://github.com/alexis-bustos/sql_project_data_job_analysis",
   },
+  {
+    id: 2,
+    title: "SQL Data Warehouse Project",
+    description:
+      "Developed a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.",
+    image: "/projects/data_architecture.png",
+    tags: ["SQL Server", "Data Engineering", "Data Modeling"],
+    demoUrl: "https://github.com/alexis-bustos/sql-data-warehouse-project",
+    githubUrl: "https://github.com/alexis-bustos/sql-data-warehouse-project",
+  },
 ];
 
 export const ProjectsSections = () => {
