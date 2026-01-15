@@ -23,6 +23,16 @@ const projects = [
     demoUrl: "https://github.com/alexis-bustos/sql-data-warehouse-project",
     githubUrl: "https://github.com/alexis-bustos/sql-data-warehouse-project",
   },
+  {
+    id: 3,
+    title: "7-Day DevOps Challenge",
+    description:
+      "(In-progress) A series of hands-on exercises to build foundational DevOps skills using popular tools and practices.",
+    image: "/projects/DevOps-diagram.png",
+    tags: ["DevOps", "CI/CD", "Automation", "GitHub", "AWS"],
+    demoUrl: "#",
+    githubUrl: "#",
+  },
 ];
 
 export const ProjectsSections = () => {

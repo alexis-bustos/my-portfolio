@@ -13,17 +13,18 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate about IT and Data Analytics/Engineering
+              Passionate about IT, networking, and cloud infrastructure.
             </h3>
             <p className="text-muted-foreground">
-              I enjoy digging through data to uncover valuable insight. SQL,
-              Excel, and a BI tool are my trusty partners.
+              I enjoy working on cloud infrastructure, networking, and data
+              analytics projects. With a strong foundation in IT and a keen
+              interest in emerging technologies, I strive to deliver efficient
+              and scalable solutions.
             </p>
             <p className="text-muted-foreground">
               I'm passionate about creating solutions to complex problems, and
               I'm constantly learning new technologies and techniques to stay at
-              the forefront of the ever-evolving data analytics/engineering
-              world.
+              the forefront of the ever-evolving tech landscape.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -31,7 +32,7 @@ export const AboutSection = () => {
                 Get in Touch
               </a>
               <a
-                href="/assets/Resume_Alexis_Bustos_09_21_25.pdf"
+                href="/assets/Alexis_Bustos_Resume.pdf"
                 download="Resume_Alexis_Bustos.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
                 Download CV/Résumé
@@ -58,10 +59,9 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Dashboard</h4>
+                  <h4 className="font-semibold text-lg">Cloud</h4>
                   <p className="text-muted-foreground">
-                    Designing intuitive user dashboards to help visualize data
-                    insights.
+                    Experience with AWS and Azure cloud services and solutions.
                   </p>
                 </div>
               </div>

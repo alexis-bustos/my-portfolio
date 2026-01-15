@@ -10,14 +10,16 @@ const skills = [
   { name: "MongoDB", level: 60, category: "DMBS" },
 
   // Tool
-  { name: "Excel", level: 75, category: "tools" },
+  { name: "Excel", level: 70, category: "tools" },
   { name: "Git/GitHub", level: 80, category: "tools" },
   { name: "Docker", level: 55, category: "tools" },
-  { name: "VS Code", level: 80, category: "tools" },
+  { name: "VS Code", level: 85, category: "tools" },
   { name: "AWS EC2", level: 85, category: "tools" },
   { name: "AWS RDS", level: 80, category: "tools" },
   { name: "AWS S3", level: 80, category: "tools" },
-  { name: "AWS CloudFormation", level: 70, category: "tools" },
+  { name: "AWS CloudFormation", level: 80, category: "tools" },
+  { name: "AWS CodePipeline", level: 80, category: "tools" },
+  { name: "AWS CodeArtifact", level: 70, category: "tools" },
 ];
 
 const categories = ["all", "DMBS", "tools"];
